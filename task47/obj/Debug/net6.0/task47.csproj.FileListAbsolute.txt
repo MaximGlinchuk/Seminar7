@@ -1,0 +1,15 @@
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.csproj.AssemblyReference.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.AssemblyInfoInputs.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.AssemblyInfo.cs
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.csproj.CoreCompileInputs.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\bin\Debug\net6.0\task47.exe
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\bin\Debug\net6.0\task47.deps.json
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\bin\Debug\net6.0\task47.runtimeconfig.json
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\bin\Debug\net6.0\task47.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\bin\Debug\net6.0\task47.pdb
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\refint\task47.dll
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.pdb
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\task47.genruntimeconfig.cache
+C:\Users\glinc\OneDrive\Рабочий стол\GeekBrains\Introduction to programming languages\Lesson7\task47\obj\Debug\net6.0\ref\task47.dll
